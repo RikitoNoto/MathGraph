@@ -1,0 +1,11 @@
+D:\create\C#\MathGraph\MathGraph\obj\Debug\netcoreapp3.0\MathGraph.csprojAssemblyReference.cache
+D:\create\C#\MathGraph\MathGraph\obj\Debug\netcoreapp3.0\MathGraph.AssemblyInfoInputs.cache
+D:\create\C#\MathGraph\MathGraph\obj\Debug\netcoreapp3.0\MathGraph.AssemblyInfo.cs
+D:\create\C#\MathGraph\MathGraph\bin\Debug\netcoreapp3.0\MathGraph.exe
+D:\create\C#\MathGraph\MathGraph\bin\Debug\netcoreapp3.0\MathGraph.deps.json
+D:\create\C#\MathGraph\MathGraph\bin\Debug\netcoreapp3.0\MathGraph.runtimeconfig.json
+D:\create\C#\MathGraph\MathGraph\bin\Debug\netcoreapp3.0\MathGraph.runtimeconfig.dev.json
+D:\create\C#\MathGraph\MathGraph\bin\Debug\netcoreapp3.0\MathGraph.dll
+D:\create\C#\MathGraph\MathGraph\bin\Debug\netcoreapp3.0\MathGraph.pdb
+D:\create\C#\MathGraph\MathGraph\obj\Debug\netcoreapp3.0\MathGraph.dll
+D:\create\C#\MathGraph\MathGraph\obj\Debug\netcoreapp3.0\MathGraph.pdb
